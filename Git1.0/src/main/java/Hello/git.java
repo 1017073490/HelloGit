@@ -7,6 +7,7 @@ package Hello;
  */
 public class git {
     public static void main(String[] args) {
-        System.out.println("Git学习。。。测试");
+        System.out.println("Git学习。。。");
+        System.out.println("更新---1");
     }
 }
