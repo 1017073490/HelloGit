@@ -10,5 +10,6 @@ public class git {
         System.out.println("Git学习。。。");
         System.out.println("更新---1");
         System.out.println("创建分支。");
+        System.out.println("主干添加");
     }
 }
